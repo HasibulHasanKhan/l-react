@@ -1,9 +1,10 @@
 import './App.css';
+import Toolbar from './components/Toolbar';
 
 function App() {
   return (
     <>
-      <h1>hi</h1>
+      <Toolbar />
     </>
   );
 }
