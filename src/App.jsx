@@ -1,15 +1,17 @@
 import './App.css';
-import Toolbar from './components/Toolbar';
-import NamingEventHandler from './components/NamingEventHandler';
-import Gallery from './components/Gellery';
-import Counter from './components/counter';
+// import Toolbar from './components/Toolbar';
+// import NamingEventHandler from './components/NamingEventHandler';
+// import Gallery from './components/Gellery';
+// import Counter from './components/counter';
+// import MovingDot from './components/MovingDot';
 function App() {
   return (
     <>
-      <Toolbar />
+      {/* <Toolbar />
       <NamingEventHandler />
       <Gallery />
-      <Counter />
+      <Counter /> */}
+      {/* <MovingDot /> */}
     </>
   );
 }
