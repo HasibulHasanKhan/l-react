@@ -4,6 +4,8 @@ import './App.css';
 // import Gallery from './components/Gellery';
 // import Counter from './components/counter';
 // import MovingDot from './components/MovingDot';
+import RestObject from './components/RestObject';
+
 function App() {
   return (
     <>
@@ -12,6 +14,7 @@ function App() {
       <Gallery />
       <Counter /> */}
       {/* <MovingDot /> */}
+      <RestObject />
     </>
   );
 }
